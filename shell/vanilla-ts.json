@@ -1,0 +1,11 @@
+{
+	"serve": {},
+	"statics": [
+		"index.html",
+		"favicon.ico",
+		{
+			"path": "assets",
+			"type": "folder"
+		}
+	]
+}
